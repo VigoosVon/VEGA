@@ -12,4 +12,5 @@
 int main()
 {
 	printf("hello,world!!\n");
+	printf("push by pc 57\n");
 }
